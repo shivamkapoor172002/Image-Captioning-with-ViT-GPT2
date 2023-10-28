@@ -17,7 +17,8 @@ Image captioning is a fascinating intersection of computer vision and NLP, enabl
 3. **View Caption**: Within seconds, the application generates a descriptive caption for the uploaded image, providing you with valuable insights.
 
 ## Pretrained Model
-                                                      ![image](https://github.com/shivamkapoor172002/Image-Captioning-with-ViT-GPT2/assets/92868323/18c611cc-f6db-4d8c-9cf2-ff74db71b90d)
+![image](https://github.com/shivamkapoor172002/Image-Captioning-with-ViT-GPT2/assets/92868323/c50e9c50-135a-4a02-bda2-dd80c38ba82b)
+
 
 
 This application leverages the power of a pretrained Vision Encoder-Decoder model, ViT-GPT2, fine-tuned for image captioning. The model is designed to understand the content of images and generate human-like captions that capture the essence of the visual information.
